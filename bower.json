@@ -1,8 +1,0 @@
-{
-  "name": "react-starter",
-  "version": "0.0.1",
-  "dependencies": {
-    "react": "~0.12.1"
-  },
-  "private": true
-}

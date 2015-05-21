@@ -19,7 +19,7 @@ casper.test.begin('Test data show page', 2, function suite(test) {
         console.log(date1 - date0)
 
         var interval = date1 - date0 - 1000;
-        test.assertEquals(0, interval, 'datetime should change');
+        test.assertEquals(0, interval, 'datetime should change'); //need to be improved
       });
     });
   });

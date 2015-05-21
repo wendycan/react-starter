@@ -13,4 +13,4 @@ setInterval(function() {
     <HelloWorld date={new Date()} />,
     document.getElementById('content')
   );
-}, 100);
+}, 500);
